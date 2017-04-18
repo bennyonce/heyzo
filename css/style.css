@@ -240,7 +240,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-nav ul li.has-dropdown .dropdown:before {
   bottom: 100%;
-  left: 40px;
+/*  left: 40px;*/
   border: solid transparent;
   content: " ";
   height: 0;
